@@ -1,6 +1,18 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true
-  }
+    "strict": true,
+    "baseUrl": "./",
+    "moduleResolution": "node", 
+    "paths": {                                /* A series of entries which re-map imports to lookup locations relative to the 'baseUrl'. */
+      "@app/*": [
+        "app/*/investmentAppConfig",
+        "app/*/LicenseInfo",
+        "app/*/api",
+        "app/*/version",
+        "app/*/now",
+        "app/*"
+      ],
+  },
+},
 }

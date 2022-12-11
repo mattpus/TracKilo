@@ -1,0 +1,189 @@
+{
+"2022-11-23": [],
+"2022-11-24": [
+ {
+  "id": "1",
+  "name": "Push day",
+  "exercises" : [{
+    "name": "Bench Press ", 
+    "sets": [
+     {"weight": 60, "repetitions": 5},
+     {"weight": 60, "repetitions": 5},
+     {"weight": 60, "repetitions": 5},
+     {"weight": 60, "repetitions": 5},
+     {"weight": 60, "repetitions": 5}
+  ]
+  },
+  {
+    "name": "Incline Bench Press", 
+    "sets": [
+     {"weight":80, "repetitions": 5},
+     {"weight":80, "repetitions": 5},
+     {"weight":80, "repetitions": 5},
+     {"weight":80, "repetitions": 5},
+     {"weight":80, "repetitions": 5}
+  ]
+  },
+  {
+    "name": "Tricep Extensions", 
+    "sets": [
+     {"weight": 12, "repetitions": 5},
+     {"weight": 12, "repetitions": 5},
+     {"weight": 12, "repetitions": 5},
+     {"weight": 12, "repetitions": 5},
+     {"weight": 12, "repetitions": 5}
+  ]
+  }
+
+
+  ],
+  "day": "2022-11-24"
+ }
+],
+"2022-11-25": [
+  {
+    "id": "2",
+    "name": "Pull day",
+    "exercises" : [{
+      "name": "Lat Pull Down", 
+      "sets": [
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Barbell Row ", 
+      "sets": [
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Bicep Curl", 
+      "sets": [
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5}
+    ]
+    }
+  
+  
+    ],
+    "day": "2022-11-25"
+  },
+  {
+    "id": "3",
+    "name": "Leg Day",
+    "exercises" : [{
+      "name": "Squats", 
+      "sets": [
+       {"weight": 100, "repetitions": 5},
+       {"weight": 100, "repetitions": 5},
+       {"weight": 100, "repetitions": 5},
+       {"weight": 100, "repetitions": 5},
+       {"weight": 100, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Leg Press", 
+      "sets": [
+       {"weight": 160, "repetitions": 5},
+       {"weight": 160, "repetitions": 5},
+       {"weight": 160, "repetitions": 5},
+       {"weight": 160, "repetitions": 5},
+       {"weight": 160, "repetitions": 5}
+    ]
+    }],
+    "day": "2022-11-25"
+  }
+],
+"2022-11-26": [
+  {
+    "id": "4",
+    "name": "Push day",
+    "exercises" : [{
+      "name": "Bench Press ", 
+      "sets": [
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Incline Bench Press", 
+      "sets": [
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Tricep Extensions", 
+      "sets": [
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5}
+    ]
+    }
+  
+  
+    ],
+    "day": "2022-11-26"
+   }
+],
+"2022-11-27": [
+  {
+    "id": "5",
+    "name": "Push day",
+    "exercises" : [{
+      "name": "Bench Press ", 
+      "sets": [
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5},
+       {"weight": 60, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Incline Bench Press", 
+      "sets": [
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5},
+       {"weight":80, "repetitions": 5}
+    ]
+    },
+    {
+      "name": "Tricep Extensions", 
+      "sets": [
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5},
+       {"weight": 12, "repetitions": 5}
+    ]
+    }
+  
+  
+    ],
+    "day": "2022-11-27"
+   }
+]
+
+}
