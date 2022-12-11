@@ -73,8 +73,8 @@ export default WorkoutList
 
 const styles = StyleSheet.create({
   container: {
-    margin: spacing.M,
-    padding: spacing.XS,
+    margin: spacing.S,
+    padding: spacing.S,
     borderRadius: spacing.XS
   },
   title: {
