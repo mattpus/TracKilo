@@ -31,6 +31,8 @@ export default Card
 
 const styles = StyleSheet.create({
   root: {
+    flex: 1,
+    backgroundColor: "lightgray",
     marginHorizontal: spacing.XS,
     borderRadius: spacing.XXS,
     shadowColor: "black",

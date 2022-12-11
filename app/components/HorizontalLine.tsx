@@ -7,6 +7,6 @@ const HorizontalLine = (props: ViewProps): React.ReactElement => {
   return <View style={[style.root, props.style]} />;
 };
 
-const style = StyleSheet.create({ root: { height: 1 } });
+const style = StyleSheet.create({ root: { height: 1 , backgroundColor: 'black' }});
 
 export default HorizontalLine;

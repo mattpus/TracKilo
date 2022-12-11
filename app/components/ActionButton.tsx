@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Image, ImageProps, ImageSourcePropType, Pressable } from 'react-native'
+import { StyleSheet, Text, Pressable } from 'react-native'
 import React from 'react'
 import { Ionicons } from '@expo/vector-icons'
 import Colors from '../constants/Colors'
@@ -24,5 +24,7 @@ const styles = StyleSheet.create({
   container: {
     padding: spacing.M,
     alignItems: 'center',
+    justifyContent: 'center',
+    marginBottom: spacing.XL,
   }
 })
